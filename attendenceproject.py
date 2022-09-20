@@ -3,7 +3,7 @@ import numpy as np
 import face_recognition
 import os
 
-path='path to ur image dir folder'
+path=r'path to ur image dir folder'
 
 images=[]
 classNames=[]
